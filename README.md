@@ -29,7 +29,7 @@
 
 ## À propos
 
-Je suis développeur fullstack junior à Abidjan. J'ai suivi la Coding Academy d'Epitech (programme WeCode) et je prépare une licence d'informatique à l'UVCI. Avant l'informatique, j'ai étudié l'économie et la gestion, ce qui m'aide à poser les bonnes questions sur les données : d'où viennent-elles, qui les a produites, que permettent-elles de dire.
+Je suis développeur fullstack à Abidjan. J'ai suivi la Coding Academy d'Epitech (programme WeCode) et je prépare une licence d'informatique à l'UVCI. Avant l'informatique, j'ai étudié l'économie et la gestion, ce qui m'aide à poser les bonnes questions sur les données : d'où viennent-elles, qui les a produites, que permettent-elles de dire.
 
 Je construis des applications web et mobiles (API, interfaces, bases de données). Depuis octobre 2026, je suis un programme de dix projets de portfolio, un par mois, pour passer du développement web à l'ingénierie de la donnée puis à l'IA. Chaque projet est publié avec un README, des tests et des résultats que j'ai mesurés moi-même.
 
@@ -55,13 +55,13 @@ Je fais actuellement un stage de développeur fullstack junior chez Softech Ing�
 ## Technologies
 
 **Backend & API**
-![Laravel](https://img.shields.io/badge/Laravel-2A9D8F?style=for-the-badge&logo=laravel&logoColor=FFFFFF) ![NestJS](https://img.shields.io/badge/NestJS-E76F51?style=for-the-badge&logo=nestjs&logoColor=FFFFFF) ![PHP](https://img.shields.io/badge/PHP-2A9D8F?style=for-the-badge&logo=php&logoColor=FFFFFF) ![Python](https://img.shields.io/badge/Python-E76F51?style=for-the-badge&logo=python&logoColor=FFFFFF)
+![NestJS](https://img.shields.io/badge/NestJS-E76F51?style=for-the-badge&logo=nestjs&logoColor=FFFFFF) ![Laravel](https://img.shields.io/badge/Laravel-2A9D8F?style=for-the-badge&logo=laravel&logoColor=FFFFFF)  ![Python](https://img.shields.io/badge/Python-E76F51?style=for-the-badge&logo=python&logoColor=FFFFFF) ![PHP](https://img.shields.io/badge/PHP-2A9D8F?style=for-the-badge&logo=php&logoColor=FFFFFF)
 
 **Frontend & Mobile**
-![React](https://img.shields.io/badge/React-2A9D8F?style=for-the-badge&logo=react&logoColor=FFFFFF) ![Next.js](https://img.shields.io/badge/Next.js-E76F51?style=for-the-badge&logo=nextdotjs&logoColor=FFFFFF) ![Vue.js](https://img.shields.io/badge/Vue.js-2A9D8F?style=for-the-badge&logo=vuedotjs&logoColor=FFFFFF) ![React Native](https://img.shields.io/badge/React_Native-E76F51?style=for-the-badge&logo=react&logoColor=FFFFFF) ![Tailwind](https://img.shields.io/badge/Tailwind-2A9D8F?style=for-the-badge&logo=tailwindcss&logoColor=FFFFFF)
+![Next.js](https://img.shields.io/badge/Next.js-E76F51?style=for-the-badge&logo=nextdotjs&logoColor=FFFFFF) ![Vue.js](https://img.shields.io/badge/Vue.js-2A9D8F?style=for-the-badge&logo=vuedotjs&logoColor=FFFFFF) ![React](https://img.shields.io/badge/React-2A9D8F?style=for-the-badge&logo=react&logoColor=FFFFFF)   ![React Native](https://img.shields.io/badge/React_Native-E76F51?style=for-the-badge&logo=react&logoColor=FFFFFF) ![Tailwind](https://img.shields.io/badge/Tailwind-2A9D8F?style=for-the-badge&logo=tailwindcss&logoColor=FFFFFF)
 
 **Bases de données**
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-E76F51?style=for-the-badge&logo=postgresql&logoColor=FFFFFF) ![MongoDB](https://img.shields.io/badge/MongoDB-2A9D8F?style=for-the-badge&logo=mongodb&logoColor=FFFFFF) ![Redis](https://img.shields.io/badge/Redis-E76F51?style=for-the-badge&logo=redis&logoColor=FFFFFF)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-E76F51?style=for-the-badge&logo=postgresql&logoColor=FFFFFF) ![MongoDB](https://img.shields.io/badge/MongoDB-2A9D8F?style=for-the-badge&logo=mongodb&logoColor=FFFFFF)
 
 **Outils**
 ![Git](https://img.shields.io/badge/Git-2A9D8F?style=for-the-badge&logo=git&logoColor=FFFFFF) ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-E76F51?style=for-the-badge&logo=githubactions&logoColor=FFFFFF)
