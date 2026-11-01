@@ -1,5 +1,5 @@
 <h1 align="center">Salut, je suis Paul Yvan</h1>
-<p align="center">Développeur fullstack junior · Abidjan, Côte d'Ivoire</p>
+<p align="center">Développeur fullstack · Abidjan, Côte d'Ivoire</p>
 <h3 align="center">Je construis des applications web et mobiles, et je me spécialise dans la donnée : Python, SQL, puis modèles et IA</h3>
 
 <!-- <p align="center">
